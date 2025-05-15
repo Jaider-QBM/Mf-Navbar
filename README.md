@@ -46,7 +46,7 @@ npm run dev
 Esto levantará el microfrontend en:
  
 ```bash
-[npm run dev](http://localhost:8510)
+http://localhost:8510
 ```
 
 ## 🧩 Integración
